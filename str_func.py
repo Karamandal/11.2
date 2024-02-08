@@ -1,4 +1,5 @@
 def uppercase_string(input_string):
+    """Тимлид добавил докстринг"""
     return input_string.upper()
 
 string = "hello, world!"
